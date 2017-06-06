@@ -1,7 +1,7 @@
 {
     "name": "faustbrian/openbeerdatabase-php-client",
     "description": "A OpenBeerDatabase Client for PHP",
-    "keywords": ["api", "faustbrian", "faustbrian-openbeerdatabase", "openbeerdatabase", "Brian Faust", "faustbrian"],
+    "keywords": ["api", "openbeerdatabase", "Brian Faust", "faustbrian"],
     "license": "MIT",
     "authors": [{
         "name": "Brian Faust",
